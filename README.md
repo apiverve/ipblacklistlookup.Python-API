@@ -79,7 +79,8 @@ print(result)
       "timezone": "America/Sao_Paulo"
     },
     "parsed": true
-  }
+  },
+  "code": 200
 }
 ```
 
